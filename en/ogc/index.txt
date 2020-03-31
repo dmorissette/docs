@@ -20,7 +20,6 @@ application neutral implementation manner.
    wms_client
    wms_time
    wms_dimension
-   mapcontext
    layer_metadata
    wfs_server
    inspire_dl
@@ -31,6 +30,8 @@ application neutral implementation manner.
    wcs_server
    wcs_format
    sos_server
+   mapcontext
+   mapml
    wxs_secure
    mapscript
    
